@@ -1,0 +1,1 @@
+docker run --rm -v $PWD/telegraf.conf:/etc/telegraf/telegraf.conf chenseanxy/telegraf-smart --test
